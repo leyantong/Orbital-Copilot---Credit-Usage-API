@@ -82,6 +82,9 @@ Orbital-Copilot-Credit-Usage-API/
 │   ├── api.py      # Handles external API requests (messages & reports)
 │   ├── calculator.py # Implements credit calculation logic
 │── config.py       # Stores API endpoint configurations
+│── tests/
+│   ├── test_api.py
+│   ├── test_calculator.py
 │── requirements.txt # Dependency list
 │── README.md       # Project documentation
 ```
