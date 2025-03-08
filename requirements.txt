@@ -1,0 +1,4 @@
+# Required dependencies
+fastapi
+uvicorn
+aiohttp
